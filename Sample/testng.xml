@@ -1,0 +1,7 @@
+<suite name="webDriver" parallel="tests">
+	<test name="Test In Chrome">
+		<classes>
+			<class name="com.terralogic.Sample.ClassOne" />
+		</classes>
+	</test>
+</suite>
